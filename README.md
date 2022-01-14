@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @Joshua-Giblin-Burnham, I have example coding I've done either personally or throughout my degree
+- 👀 I’m interested in Physics and use of coding in modelling and analysing physical systems
+- 🌱 I’m currently learning Machine Learning
+- 📫 How to reach me at j.giblin-burnham@hotmail.com
