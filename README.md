@@ -1,4 +1,4 @@
 - 👋 Hi, I’m @Joshua-Giblin-Burnham, I have example coding I've done either personally or throughout my degree
 - 👀 I’m interested in Physics and use of coding in modelling and analysing physical systems
-- 🌱 I’m currently studying at the University of Oxford
-- 📫 How to reach me at j.giblin-burnham@hotmail.com
+- 🌱 I’m currently studying at the University of Oxford (https://eng.ox.ac.uk/people/joshua-giblin-burnham/)
+- 📫 Reach me at j.giblin-burnham@hotmail.com or view my personal website https://users.ox.ac.uk/~lina4457/
